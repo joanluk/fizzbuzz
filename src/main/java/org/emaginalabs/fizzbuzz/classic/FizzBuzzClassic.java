@@ -9,7 +9,7 @@ package org.emaginalabs.fizzbuzz.classic;
  * of the numbers which are divisible by 5. But if a number is found to be divisible by both 3 and 5
  * then you must have to print “FizzBuzz” instead of the number.
  *
- * @author jose
+ * @author jose 
  */
 public class FizzBuzzClassic  {
 
